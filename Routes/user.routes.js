@@ -59,7 +59,7 @@ router.post("/login", async (req, res) => {
     if (!validationResult.success) {
       return res.status(400).json({
         message: validationResult.error.errors[0].message,
-      });
+      });    
     }
 
     const { email, password } = validationResult.data;
