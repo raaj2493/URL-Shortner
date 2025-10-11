@@ -18,7 +18,7 @@ This project provides **RESTful APIs** for user authentication, URL shortening, 
 ## 🛠 Tech Stack  
 
 ```bash
-| Category         | Technology           | Purpose                                 |
+| Category         | Technology           | Purpose                                  |
 |------------------|----------------------|------------------------------------------|
 | Backend          | Node.js + Express    | REST API development                     |
 | Database         | PostgreSQL           | Relational data store                    |
